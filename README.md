@@ -1,5 +1,5 @@
 <h3 align="center"> <em>>_Computer science student passionate about new technologies.  
-I enjoy learning, experimenting, and creating projects to improve my skills.>_</em></h3>
+I enjoy learning, experimenting, and creating projects to improve my skills.</em></h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-00c9a7?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ton-lien-portfolio.com](https://zakariyafellah.github.io/))
 
