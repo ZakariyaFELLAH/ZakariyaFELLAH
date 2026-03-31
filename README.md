@@ -1,9 +1,12 @@
-Computer science student passionate about new technologies.  
-I enjoy learning, experimenting, and creating projects to improve my skills.
+<h3 align="center"> <em>╰┈➤ Computer science student passionate about new technologies.  
+I enjoy learning, experimenting, and creating projects to improve my skills.>_</em></h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-00c9a7?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ton-lien-portfolio.com](https://zakariyafellah.github.io/))
 
-🔗 CONTACT
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <a href="https://www.linkedin.com/in/zakariya-fellah-846aa6384/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
